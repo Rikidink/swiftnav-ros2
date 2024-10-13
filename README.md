@@ -1,3 +1,6 @@
+# Fork of the Swiftnav-ros2 repo
+This fork is an attempt to make the driver work for symlinks that point to the serial device.
+
 # **swiftnav-ros2**
 ROS 2 driver for Swift Navigation's GNSS/INS receivers and Starling Positioning Engine software.
 
